@@ -1,0 +1,21 @@
+img{
+    width: 300px; ;
+}
+input{
+    padding: 30px;
+}
+.red {
+     color:red;
+     font-size: 50px;
+     border: red 5px solid;
+     margin-left: 20px;
+    
+ }
+ .green{
+    color:green;
+     font-size: 50px;
+     border: green 5px solid;
+     margin-left: 20px;
+     
+ }
+ 
